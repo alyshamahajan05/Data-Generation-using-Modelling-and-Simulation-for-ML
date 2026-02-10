@@ -81,7 +81,3 @@ This project demonstrates that simulation-based data generation can be effective
 - Pandas
 - Scikit-learn
 - Matplotlib
-
-
-
-## Repository Structure
