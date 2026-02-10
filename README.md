@@ -70,10 +70,6 @@ A comparison table is generated to evaluate the performance of all models. A bar
 ## Conclusion
 This project demonstrates that simulation-based data generation can be effectively used for machine learning tasks. The results show that ensemble models such as Random Forest perform better on simulation-generated data compared to simpler models.
 
-Simulation-ML-Assignment/
-├── Data-Generation-using-Modelling-and-Simulation-for-ML.ipynb
-├── README.md
----
 
 ---
 
